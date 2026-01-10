@@ -20,5 +20,4 @@ If you encounter any issues with the timetables, or if you notice that a new tim
 ## Current issues
 
 * We do not know if there is Saturday service on Koedoespoort-Hercules.
-* We do not know if there is weekday service on Pilot-Germiston.
 
