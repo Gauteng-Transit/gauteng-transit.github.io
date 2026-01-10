@@ -6,8 +6,8 @@ sidebar:
 
 ## Transfer stations
 
-* [Germiston](../stations/germiston)
-* [Johannesburg](../stations/johannesburg)
+* [Germiston](/stations/germiston)
+* [Johannesburg](/stations/johannesburg)
 
 ## Timetable
 

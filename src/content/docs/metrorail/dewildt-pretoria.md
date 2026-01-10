@@ -6,8 +6,8 @@ sidebar:
 
 ## Transfer stations
 
-* [Pretoria](../stations/pretoria)
-* [Hercules](../stations/hercules)
+* [Pretoria](/stations/pretoria)
+* [Hercules](/stations/hercules)
 
 ## Timetable
 

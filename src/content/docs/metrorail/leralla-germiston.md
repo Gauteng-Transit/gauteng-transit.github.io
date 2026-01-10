@@ -7,8 +7,8 @@ sidebar:
 
 ## Transfer stations
 
-* [Kempton Park](../stations/kemptonpark)
-* [Germiston](../stations/germiston)
+* [Kempton Park](/stations/kemptonpark)
+* [Germiston](/stations/germiston)
 
 ## Timetable
 

@@ -6,8 +6,8 @@ sidebar:
 
 ## Transfer stations
 
-* [Pretoria](../stations/pretoria)
-* [Koedoespoort](../stations/koedoespoort)
+* [Pretoria](/stations/pretoria)
+* [Koedoespoort](/stations/koedoespoort)
 
 ## Timetable
 

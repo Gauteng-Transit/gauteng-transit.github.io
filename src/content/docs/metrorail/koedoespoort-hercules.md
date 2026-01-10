@@ -6,8 +6,8 @@ sidebar:
 
 ## Transfer stations
 
-* [Koedoespoort](../stations/koedoespoort)
-* [Hercules](../stations/hercules)
+* [Koedoespoort](/stations/koedoespoort)
+* [Hercules](/stations/hercules)
 
 ## Timetable
 

@@ -6,7 +6,7 @@ sidebar:
 
 ## Transfer stations
 
-* [Hercules](../stations/hercules)
+* [Hercules](/stations/hercules)
 
 ## Timetable
 

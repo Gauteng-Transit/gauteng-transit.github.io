@@ -6,8 +6,8 @@ sidebar:
 
 ## Transfer stations
 
-* [Pretoria](../stations/pretoria)
-* [Kempton Park](../stations/kemptonpark)
+* [Pretoria](/stations/pretoria)
+* [Kempton Park](/stations/kemptonpark)
 
 ## Timetable
 

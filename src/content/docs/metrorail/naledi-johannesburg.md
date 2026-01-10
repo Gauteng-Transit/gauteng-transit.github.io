@@ -6,8 +6,8 @@ sidebar:
 
 ## Transfer stations
 
-* [Johannesburg](../stations/johannesburg)
-* [New Canada](../stations/newcanada)
+* [Johannesburg](/stations/johannesburg)
+* [New Canada](/stations/newcanada)
 
 ## Timetable
 

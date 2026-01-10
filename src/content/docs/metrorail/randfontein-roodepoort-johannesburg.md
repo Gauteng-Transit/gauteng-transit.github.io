@@ -6,7 +6,7 @@ sidebar:
 
 ## Transfer stations
 
-* [Johannesburg](../stations/johannesburg)
+* [Johannesburg](/stations/johannesburg)
 
 ## Timetable
 

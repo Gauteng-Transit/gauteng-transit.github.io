@@ -6,7 +6,7 @@ sidebar:
 
 ## Transfer stations
 
-* [Germiston](../stations/germiston)
+* [Germiston](/stations/germiston)
 
 ## Timetable
 

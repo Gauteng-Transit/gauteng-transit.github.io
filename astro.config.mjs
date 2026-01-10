@@ -14,6 +14,10 @@ export default defineConfig({
 					label: 'Metrorail',
 					autogenerate: { directory: 'metrorail' },
 				},
+				{
+					label: 'Stations',
+					autogenerate: { directory: 'stations' },
+				},
 			],
 		}),
 	],
