@@ -1,5 +1,7 @@
 ---
-title: "Randfontein-Roodepoort-Johannesburg"
+title: "02 Randfontein-Roodepoort-Johannesburg"
+sidebar:
+  order: 02
 ---
 
 ## Transfer stations

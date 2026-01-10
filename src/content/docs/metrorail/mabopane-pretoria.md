@@ -1,5 +1,7 @@
 ---
-title: "Mabopane-Pretoria"
+title: "18 Mabopane-Pretoria"
+sidebar:
+  order: 18
 ---
 
 ## Transfer stations

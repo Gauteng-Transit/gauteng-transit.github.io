@@ -1,5 +1,7 @@
 ---
-title: Kwesine-Germiston
+title: 76 Kwesine-Germiston
+sidebar:
+  order: 76
 ---
 
 ## Transfer stations

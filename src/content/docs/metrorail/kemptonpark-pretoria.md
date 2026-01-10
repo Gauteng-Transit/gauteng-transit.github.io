@@ -1,5 +1,7 @@
 ---
-title: "Kempton Park-Irene-Pretoria"
+title: "06 Kempton Park-Irene-Pretoria"
+sidebar:
+  order: 06
 ---
 
 ## Transfer stations

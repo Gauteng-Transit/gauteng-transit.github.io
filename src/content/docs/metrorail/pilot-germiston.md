@@ -1,5 +1,7 @@
 ---
-title: Pilot-Germiston
+title: 76 Pilot-Germiston
+sidebar:
+  order: 76
 ---
 
 ## Transfer stations

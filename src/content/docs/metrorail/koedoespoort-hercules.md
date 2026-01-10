@@ -1,5 +1,7 @@
 ---
-title: Koedoespoort-Hercules
+title: 12 Koedoespoort-Hercules
+sidebar:
+  order: 12
 ---
 
 ## Transfer stations

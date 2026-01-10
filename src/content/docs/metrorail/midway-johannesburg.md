@@ -1,5 +1,7 @@
 ---
-title: "Midway-Johannesburg"
+title: "90 Midway-Johannesburg"
+sidebar:
+  order: 90
 ---
 
 ## Transfer stations
