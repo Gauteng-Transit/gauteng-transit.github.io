@@ -4,7 +4,6 @@ title: Germiston
 
 ## Lines serving this station
 
-* [Germiston-Johannesburg](../germiston-johannesburg)
-* [Pilot-Germiston](../pilot-germiston)
-* [Leralla-Germiston](../leralla-germiston)
-* [Kwesine-Germiston](../kwesine-germiston)
+* [05 Leralla-Germiston](../../leralla-germiston)
+* [65 Germiston-Johannesburg](../../germiston-johannesburg)
+* [76 Kwesine-Germiston](../../kwesine-germiston)

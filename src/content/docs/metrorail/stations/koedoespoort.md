@@ -4,5 +4,5 @@ title: Koedoespoort
 
 ## Lines serving this station
 
-* [Pienaarspoort-Pretoria](../pienaarspoort-pretoria)
-* [Leralla-Germiston](../leralla-germiston)
+* [12 Koedoespoort-Hercules](../../koedoespoort-hercules)
+* [91/11 Pienaarspoort-Pretoria](../../pienaarspoort-pretoria)

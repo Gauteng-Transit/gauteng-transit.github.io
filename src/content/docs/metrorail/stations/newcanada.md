@@ -4,5 +4,5 @@ title: New Canada
 
 ## Lines serving this station
 
-* [Midway-Johannesburg](../midway-johannesburg)
-* [Naledi-Johannesburg](../naledi-johannesburg)
+* [90 Midway-Johannesburg](../../midway-johannesburg)
+* [93 Naledi-Johannesburg](../../naledi-johannesburg)
