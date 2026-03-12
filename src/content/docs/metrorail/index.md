@@ -12,6 +12,7 @@ There is no Sunday service for Metrorail.
 
 * [Metrorail Gauteng - Facebook (official)](https://www.facebook.com/metrorailgp)
 * [Metrorail - Gauteng Train updates - Facebook (unofficial)](https://www.facebook.com/groups/289793242808086)
+* [Metrorail Gauteng-Prasa commuter updates and railway fanatics train alert (unofficial)](https://www.facebook.com/groups/1061851714217432)
 
 ## How to help out
 
