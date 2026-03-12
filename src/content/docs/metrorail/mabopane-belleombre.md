@@ -12,7 +12,7 @@ sidebar:
 
 ### Weekday
 
-[Issued 2025-12-04](https://www.facebook.com/photo?fbid=1307098074788855&set=pcb.1307098178122178)
+[Issued 2026-02-02](https://www.facebook.com/photo.php?fbid=1359267152905280&set=pb.100064660243057.-2207520000&type=3)
 
 ![](mabopane-belleombre-weekday.jpg)
 

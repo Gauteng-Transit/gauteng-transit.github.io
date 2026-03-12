@@ -13,7 +13,7 @@ sidebar:
 
 ### Weekday
 
-[Issued 2025-12-04](https://www.facebook.com/photo/?fbid=1307098031455526&set=pcb.1307098178122178)
+[Issued 2026-03-02](https://www.facebook.com/photo.php?fbid=1382994207199241&set=pb.100064660243057.-2207520000&type=3)
 
 ![](dewildt-pretoria-weekday.jpg)
 

@@ -12,9 +12,10 @@ sidebar:
 
 ### Weekday
 
-[Issued 2025-11-28](https://www.facebook.com/photo.php?fbid=1305774848254511&set=pb.100064660243057.-2207520000&type=3)
+[Issued 2026-01-29](https://www.facebook.com/photo/?fbid=1353652043466791&set=pb.100064660243057.-2207520000)
 
-![](saulsville-pretoria-weekday.jpg)
+![](saulsville-pretoria-weekday-inbound.jpg)
+![](saulsville-pretoria-weekday-outbound.jpg)
 
 ### Saturdays and holidays
 

@@ -12,7 +12,7 @@ sidebar:
 
 ### Weekday
 
-[Issued 2025-07-17](https://www.facebook.com/photo/?fbid=1191155059716491&set=pb.100064660243057.-2207520000)
+[Issued 2026-02-18](https://www.facebook.com/photo.php?fbid=1372156641616331&set=pb.100064660243057.-2207520000&type=3)
 
 ![](kwesine-germiston-weekday.jpg)
 

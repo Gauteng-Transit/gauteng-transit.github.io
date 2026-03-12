@@ -17,19 +17,15 @@ sidebar:
 
 ![](kemptonpark-pretoria-weekday.jpg)
 
+<!-- TODO https://www.facebook.com/photo.php?fbid=25698271136470092&set=p.25698271136470092&type=3 -->
+
 ### Saturdays and holidays
 
 #### Terminating at Kempton Park
 
-[Issued 2025-09-13](https://www.facebook.com/photo?fbid=854546010801651&set=pcb.1403050294815703)
+[Issued 2026-03-02](https://www.facebook.com/photo.php?fbid=1382995197199142&set=pb.100064660243057.-2207520000&type=3)
 
 ![](kemptonpark-pretoria-saturday.jpg)
-
-#### Terminating at Irene
-
-[Source](https://www.facebook.com/photo?fbid=854545744135011&set=pcb.1403050294815703)
-
-![](irene-pretoria-saturday.jpg)
 
 ## How to help out
 

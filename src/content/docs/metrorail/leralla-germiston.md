@@ -22,6 +22,8 @@ See the [December 2025 scaled-down timetable](https://www.facebook.com/photo/?fb
 
 ![](leralla-germiston-dec2025-scaledown.jpg)
 
+<!-- TODO https://www.facebook.com/photo.php?fbid=10232298480666930&set=p.10232298480666930&type=3 -->
+
 ### Saturdays and holidays
 
 [Issued 2025-08-02](https://www.facebook.com/photo?fbid=854546027468316&set=pcb.1403050294815703)
